@@ -1,2 +1,2 @@
 # simplelogger
-This is simple logger/
+This is simple logger.
