@@ -1,6 +1,3 @@
-# Makefile template for a shared library in C
-# https://www.topbug.net/blog/2019/10/28/makefile-template-for-a-shared-library-in-c-with-explanations/
-
 CC = gcc  # C compiler
 CFLAGS = -fPIC -Wall -Wextra -O2 -g  # C flags
 LDFLAGS = -shared   # linking flags
